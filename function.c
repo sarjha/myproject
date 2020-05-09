@@ -1,3 +1,4 @@
+
 Main()
 {
 Function1()
@@ -8,5 +9,14 @@ Function2()
 	{
 			sjfhjdfusg
 	}
+Function3()
+        {
+                        sjfhjdfusg
+			jksdfhbsadjgosgosfjsdn
+        }
+
+}
+
+>>>>>>> featureB
 
 }
